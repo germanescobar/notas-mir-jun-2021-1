@@ -1,0 +1,13 @@
+body {
+    background-color: aliceblue;
+}
+
+p {
+    font-size: 20px;
+    border: 3px solid blue;
+    padding: 20px;
+}
+
+table {
+    background-color: red;
+}
